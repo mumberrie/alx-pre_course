@@ -10,4 +10,4 @@ root@83bcf6b8506e:/# cd alx-pre_course
 #!/bin/bash
 echo "ALX
 #!/bin/bash
-echo "ALX"
+echo "ALX School is so cool!"
